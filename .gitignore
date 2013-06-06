@@ -3,3 +3,6 @@
 *.a
 *.dSYM
 .DS_Store
+bcftools/*.exe
+misc/*.exe
+samtools.exe
